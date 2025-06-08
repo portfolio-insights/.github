@@ -22,8 +22,8 @@ A stock price analysis and alerting tool that lets users search for stock data a
 ![Python](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=FFD845)
 ![Go](https://img.shields.io/badge/Go-1B2A33?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B5B84?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![psycopg](https://img.shields.io/badge/psycopg-2C5E83?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ### Deployment
