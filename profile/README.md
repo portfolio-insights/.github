@@ -40,7 +40,7 @@ A stock price analysis and alerting tool that lets users search for stock data a
 ![Bash](https://img.shields.io/badge/Bash-1A1F2B?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Linting
-![lint-staged](https://img.shields.io/badge/lint--staged-1A1F2B?style=for-the-badge&logo=nodedotjs&logoColor=87cf30)
+![lint-staged](https://img.shields.io/badge/lint--staged-1A1F2B?style=for-the-badge)
 ![Prettier](https://img.shields.io/badge/Prettier-1A1F2B?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![ESLint](https://img.shields.io/badge/ESLint-1A1F2B?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 ![Black](https://img.shields.io/badge/Black-1A1F2B?style=for-the-badge&logo=python&logoColor=white)
