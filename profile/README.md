@@ -48,17 +48,17 @@ A stock price analysis and alerting tool that lets users search for stock data a
 
 ## 📂 Repositories
 
-### `portfolio-insights-frontend`
+### [`portfolio-insights-frontend`](https://github.com/portfolio-insights/portfolio-insights-frontend)
 A responsive React app built with Vite that allows users to search for stock tickers, visualize historical prices in an interactive chart, and manage price alerts. Layout and design styled with vanilla CSS, charts powered by Recharts, and notifications implemented with `react-hot-toast`.
 
 _Deployment:_ Hosted on AWS Amplify with automatic deployments triggered by GitHub commits.
 
-### `portfolio-insights-backend`
+### [`portfolio-insights-backend`](https://github.com/portfolio-insights/portfolio-insights-backend)
 A FastAPI-based REST API that connects to PostgreSQL (via `psycopg`) for alert and user management, and communicates with the `market-service` microservice for live market data.
 
 _Deployment:_ Deployed as a Docker container on AWS EC2, built and launched via GitHub Actions CI/CD pipelines and custom bash deployment scripts. Database is hosted on AWS RDS.
 
-### `market-service`
+### [`market-service`](https://github.com/portfolio-insights/market-service)
 A lightweight Go microservice that handles market data connectivity, retrieving historical stock prices and performing real-time alert validation through low-latency HTTP endpoints.
 
 _Deployment:_ Compiled and deployed as a standalone binary on AWS EC2 using GitHub Actions and a custom shell-based deployment pipeline.
